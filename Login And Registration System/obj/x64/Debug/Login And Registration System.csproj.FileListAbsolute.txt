@@ -1,0 +1,17 @@
+C:\Users\Udayanga\Desktop\SLIATE\Login And Registration System\Login And Registration System\bin\x64\Debug\Login And Registration System.exe.config
+C:\Users\Udayanga\Desktop\SLIATE\Login And Registration System\Login And Registration System\bin\x64\Debug\Login And Registration System.exe
+C:\Users\Udayanga\Desktop\SLIATE\Login And Registration System\Login And Registration System\bin\x64\Debug\Login And Registration System.pdb
+C:\Users\Udayanga\Desktop\SLIATE\Login And Registration System\Login And Registration System\bin\x64\Debug\CircularProgressBar.dll
+C:\Users\Udayanga\Desktop\SLIATE\Login And Registration System\Login And Registration System\bin\x64\Debug\CircularProgressBar.xml
+C:\Users\Udayanga\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\x64\Debug\Login_And_Registration_System.Dashboard.resources
+C:\Users\Udayanga\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\x64\Debug\Login_And_Registration_System.Dashboardshow.resources
+C:\Users\Udayanga\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\x64\Debug\Login_And_Registration_System.Frm_Register.resources
+C:\Users\Udayanga\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\x64\Debug\Login_And_Registration_System.FormLoggin.resources
+C:\Users\Udayanga\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\x64\Debug\Login_And_Registration_System.Lecturers.resources
+C:\Users\Udayanga\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\x64\Debug\Login_And_Registration_System.loadingFrm.resources
+C:\Users\Udayanga\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\x64\Debug\Login_And_Registration_System.Properties.Resources.resources
+C:\Users\Udayanga\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\x64\Debug\Login_And_Registration_System.Student.resources
+C:\Users\Udayanga\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\x64\Debug\Login And Registration System.csproj.GenerateResource.Cache
+C:\Users\Udayanga\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\x64\Debug\Login And Registration System.exe
+C:\Users\Udayanga\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\x64\Debug\Login And Registration System.pdb
+C:\Users\Udayanga\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\x64\Debug\Login And Registration System.csprojResolveAssemblyReference.cache

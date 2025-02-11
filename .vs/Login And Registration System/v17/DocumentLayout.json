@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Udayanga\\Downloads\\DEH_2022_IT_F_0052\\DEH_2022_IT_F_0052\\SLIATE\\Login And Registration System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF86F81-F3B0-4D8D-93DF-C69BC2C2A946}|Login And Registration System\\Login And Registration System.csproj|c:\\users\\udayanga\\downloads\\deh_2022_it_f_0052\\deh_2022_it_f_0052\\sliate\\login and registration system\\login and registration system\\maindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDF86F81-F3B0-4D8D-93DF-C69BC2C2A946}|Login And Registration System\\Login And Registration System.csproj|solutionrelative:login and registration system\\maindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF86F81-F3B0-4D8D-93DF-C69BC2C2A946}|Login And Registration System\\Login And Registration System.csproj|c:\\users\\udayanga\\downloads\\deh_2022_it_f_0052\\deh_2022_it_f_0052\\sliate\\login and registration system\\login and registration system\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDF86F81-F3B0-4D8D-93DF-C69BC2C2A946}|Login And Registration System\\Login And Registration System.csproj|solutionrelative:login and registration system\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF86F81-F3B0-4D8D-93DF-C69BC2C2A946}|Login And Registration System\\Login And Registration System.csproj|c:\\users\\udayanga\\downloads\\deh_2022_it_f_0052\\deh_2022_it_f_0052\\sliate\\login and registration system\\login and registration system\\studentregistation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF86F81-F3B0-4D8D-93DF-C69BC2C2A946}|Login And Registration System\\Login And Registration System.csproj|solutionrelative:login and registration system\\studentregistation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF86F81-F3B0-4D8D-93DF-C69BC2C2A946}|Login And Registration System\\Login And Registration System.csproj|C:\\Users\\Udayanga\\Downloads\\DEH_2022_IT_F_0052\\DEH_2022_IT_F_0052\\SLIATE\\Login And Registration System\\login and registration system\\studentregistation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EDF86F81-F3B0-4D8D-93DF-C69BC2C2A946}|Login And Registration System\\Login And Registration System.csproj|solutionrelative:login and registration system\\studentregistation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Udayanga\\Downloads\\DEH_2022_IT_F_0052\\DEH_2022_IT_F_0052\\SLIATE\\Login And Registration System\\Login And Registration System\\MainDashboard.cs",
+              "RelativeDocumentMoniker": "Login And Registration System\\MainDashboard.cs",
+              "ToolTip": "C:\\Users\\Udayanga\\Downloads\\DEH_2022_IT_F_0052\\DEH_2022_IT_F_0052\\SLIATE\\Login And Registration System\\Login And Registration System\\MainDashboard.cs [Design]",
+              "RelativeToolTip": "Login And Registration System\\MainDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:52:59.08Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Udayanga\\Downloads\\DEH_2022_IT_F_0052\\DEH_2022_IT_F_0052\\SLIATE\\Login And Registration System\\Login And Registration System\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Login And Registration System\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\Udayanga\\Downloads\\DEH_2022_IT_F_0052\\DEH_2022_IT_F_0052\\SLIATE\\Login And Registration System\\Login And Registration System\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Login And Registration System\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:52:50.358Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentRegistation.cs",
+              "DocumentMoniker": "C:\\Users\\Udayanga\\Downloads\\DEH_2022_IT_F_0052\\DEH_2022_IT_F_0052\\SLIATE\\Login And Registration System\\Login And Registration System\\StudentRegistation.cs",
+              "RelativeDocumentMoniker": "Login And Registration System\\StudentRegistation.cs",
+              "ToolTip": "C:\\Users\\Udayanga\\Downloads\\DEH_2022_IT_F_0052\\DEH_2022_IT_F_0052\\SLIATE\\Login And Registration System\\Login And Registration System\\StudentRegistation.cs",
+              "RelativeToolTip": "Login And Registration System\\StudentRegistation.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T08:50:20.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentRegistation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Udayanga\\Downloads\\DEH_2022_IT_F_0052\\DEH_2022_IT_F_0052\\SLIATE\\Login And Registration System\\Login And Registration System\\StudentRegistation.cs",
+              "RelativeDocumentMoniker": "Login And Registration System\\StudentRegistation.cs",
+              "ToolTip": "C:\\Users\\harsh\\OneDrive\\Desktop\\DEH_2022_IT_F_0052\\SLIATE\\Login And Registration System\\Login And Registration System\\StudentRegistation.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\harsh\\OneDrive\\Desktop\\DEH_2022_IT_F_0052\\SLIATE\\Login And Registration System\\Login And Registration System\\StudentRegistation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-02-11T08:50:23.405Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

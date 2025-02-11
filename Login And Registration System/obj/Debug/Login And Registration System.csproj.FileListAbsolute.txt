@@ -1,0 +1,206 @@
+C:\Users\Udayanga\Documents\Visual Studio 2015\Projects\SLIATE\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\Login And Registration System.exe.config
+C:\Users\Udayanga\Documents\Visual Studio 2015\Projects\SLIATE\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\Login And Registration System.exe
+C:\Users\Udayanga\Documents\Visual Studio 2015\Projects\SLIATE\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\Login And Registration System.pdb
+C:\Users\Udayanga\Documents\Visual Studio 2015\Projects\SLIATE\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login And Registration System.csprojResolveAssemblyReference.cache
+C:\Users\Udayanga\Documents\Visual Studio 2015\Projects\SLIATE\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.Frm_Register.resources
+C:\Users\Udayanga\Documents\Visual Studio 2015\Projects\SLIATE\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.Properties.Resources.resources
+C:\Users\Udayanga\Documents\Visual Studio 2015\Projects\SLIATE\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login And Registration System.csproj.GenerateResource.Cache
+C:\Users\Udayanga\Documents\Visual Studio 2015\Projects\SLIATE\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login And Registration System.exe
+C:\Users\Udayanga\Documents\Visual Studio 2015\Projects\SLIATE\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login And Registration System.pdb
+C:\Users\Udayanga\Documents\Visual Studio 2015\Projects\SLIATE\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.FormLoggin.resources
+C:\Users\Udayanga\Documents\Visual Studio 2015\Projects\SLIATE\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.Dashboard.resources
+C:\Users\Udayanga\Documents\Visual Studio 2015\Projects\SLIATE\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.Dashboardshow.resources
+C:\Users\Udayanga\Documents\Visual Studio 2015\Projects\SLIATE\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.Student.resources
+C:\Users\Udayanga\Documents\Visual Studio 2015\Projects\SLIATE\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.Lecturers.resources
+C:\Users\Udayanga\Documents\Visual Studio 2015\Projects\SLIATE\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\CircularProgressBar.dll
+C:\Users\Udayanga\Documents\Visual Studio 2015\Projects\SLIATE\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\CircularProgressBar.xml
+C:\Users\Udayanga\Documents\Visual Studio 2015\Projects\SLIATE\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.loadingFrm.resources
+C:\Users\student\Desktop\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\Login And Registration System.exe.config
+C:\Users\student\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login And Registration System.exe
+C:\Users\student\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login And Registration System.pdb
+C:\Users\student\Desktop\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\Login And Registration System.exe
+C:\Users\student\Desktop\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\Login And Registration System.pdb
+C:\Users\student\Desktop\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\CircularProgressBar.dll
+C:\Users\student\Desktop\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\CircularProgressBar.xml
+C:\Users\student\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login And Registration System.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.Dashboard.resources
+C:\Users\student\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.Dashboardshow.resources
+C:\Users\student\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.Frm_Register.resources
+C:\Users\student\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.FormLoggin.resources
+C:\Users\student\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.Lecturers.resources
+C:\Users\student\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.loadingFrm.resources
+C:\Users\student\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.Properties.Resources.resources
+C:\Users\student\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.Student.resources
+C:\Users\student\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login And Registration System.csproj.GenerateResource.Cache
+H:\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\Login And Registration System.exe.config
+H:\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login And Registration System.exe
+H:\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login And Registration System.pdb
+H:\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\Login And Registration System.exe
+H:\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\Login And Registration System.pdb
+H:\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\CircularProgressBar.dll
+H:\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\CircularProgressBar.xml
+H:\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login And Registration System.csprojResolveAssemblyReference.cache
+H:\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.Dashboard.resources
+H:\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.Dashboardshow.resources
+H:\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.Frm_Register.resources
+H:\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.FormLoggin.resources
+H:\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.Lecturers.resources
+H:\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.loadingFrm.resources
+H:\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.Properties.Resources.resources
+H:\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.Student.resources
+H:\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login And Registration System.csproj.GenerateResource.Cache
+C:\Users\Udayanga\Desktop\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\Login And Registration System.exe.config
+C:\Users\Udayanga\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login And Registration System.exe
+C:\Users\Udayanga\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login And Registration System.pdb
+C:\Users\Udayanga\Desktop\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\Login And Registration System.exe
+C:\Users\Udayanga\Desktop\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\Login And Registration System.pdb
+C:\Users\Udayanga\Desktop\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\CircularProgressBar.dll
+C:\Users\Udayanga\Desktop\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\CircularProgressBar.xml
+C:\Users\Udayanga\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.Frm_Register.resources
+C:\Users\Udayanga\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.FormLoggin.resources
+C:\Users\Udayanga\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.loadingFrm.resources
+C:\Users\Udayanga\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.Properties.Resources.resources
+C:\Users\Udayanga\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login And Registration System.csproj.GenerateResource.Cache
+C:\Users\Udayanga\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.AddNewStudent.resources
+C:\Users\Udayanga\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login And Registration System.csprojResolveAssemblyReference.cache
+C:\Users\Udayanga\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.MainDashboard.resources
+C:\Users\Udayanga\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.StudentRegistation.resources
+C:\Users\Udayanga\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.ManageStudent.resources
+C:\Users\Udayanga\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.StudentPrint.resources
+C:\Users\Udayanga\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.AddMarks.resources
+C:\Users\Udayanga\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.Dashboard.resources
+C:\Users\Udayanga\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.ManageCourse.resources
+C:\Users\Udayanga\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.ManageMarks.resources
+C:\Users\Udayanga\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.NewCourse.resources
+C:\Users\Udayanga\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.PrintCourse.resources
+C:\Users\Udayanga\Desktop\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.PrintMarks.resources
+C:\Users\Udayanga\Desktop\Project\SLIATE\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\Login And Registration System.exe.config
+C:\Users\Udayanga\Desktop\Project\SLIATE\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login And Registration System.exe
+C:\Users\Udayanga\Desktop\Project\SLIATE\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login And Registration System.pdb
+C:\Users\Udayanga\Desktop\Project\SLIATE\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\Login And Registration System.exe
+C:\Users\Udayanga\Desktop\Project\SLIATE\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\Login And Registration System.pdb
+C:\Users\Udayanga\Desktop\Project\SLIATE\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\CircularProgressBar.dll
+C:\Users\Udayanga\Desktop\Project\SLIATE\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\CircularProgressBar.xml
+C:\Users\Udayanga\Desktop\Project\SLIATE\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login And Registration System.csprojResolveAssemblyReference.cache
+C:\Users\Udayanga\Desktop\Project\SLIATE\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.AddMarks.resources
+C:\Users\Udayanga\Desktop\Project\SLIATE\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.AddNewStudent.resources
+C:\Users\Udayanga\Desktop\Project\SLIATE\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.Dashboard.resources
+C:\Users\Udayanga\Desktop\Project\SLIATE\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.Frm_Register.resources
+C:\Users\Udayanga\Desktop\Project\SLIATE\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.FormLoggin.resources
+C:\Users\Udayanga\Desktop\Project\SLIATE\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.loadingFrm.resources
+C:\Users\Udayanga\Desktop\Project\SLIATE\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.MainDashboard.resources
+C:\Users\Udayanga\Desktop\Project\SLIATE\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.ManageCourse.resources
+C:\Users\Udayanga\Desktop\Project\SLIATE\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.ManageMarks.resources
+C:\Users\Udayanga\Desktop\Project\SLIATE\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.ManageStudent.resources
+C:\Users\Udayanga\Desktop\Project\SLIATE\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.NewCourse.resources
+C:\Users\Udayanga\Desktop\Project\SLIATE\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.PrintCourse.resources
+C:\Users\Udayanga\Desktop\Project\SLIATE\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.PrintMarks.resources
+C:\Users\Udayanga\Desktop\Project\SLIATE\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.Properties.Resources.resources
+C:\Users\Udayanga\Desktop\Project\SLIATE\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.StudentPrint.resources
+C:\Users\Udayanga\Desktop\Project\SLIATE\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.StudentRegistation.resources
+C:\Users\Udayanga\Desktop\Project\SLIATE\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login And Registration System.csproj.GenerateResource.Cache
+C:\Users\Udayanga\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\Login And Registration System.exe.config
+C:\Users\Udayanga\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login And Registration System.exe
+C:\Users\Udayanga\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login And Registration System.pdb
+C:\Users\Udayanga\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\Login And Registration System.exe
+C:\Users\Udayanga\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\Login And Registration System.pdb
+C:\Users\Udayanga\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\CircularProgressBar.dll
+C:\Users\Udayanga\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\CircularProgressBar.xml
+C:\Users\Udayanga\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login And Registration System.csprojResolveAssemblyReference.cache
+C:\Users\Udayanga\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.AddMarks.resources
+C:\Users\Udayanga\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.AddNewStudent.resources
+C:\Users\Udayanga\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.Dashboard.resources
+C:\Users\Udayanga\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.Frm_Register.resources
+C:\Users\Udayanga\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.FormLoggin.resources
+C:\Users\Udayanga\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.loadingFrm.resources
+C:\Users\Udayanga\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.MainDashboard.resources
+C:\Users\Udayanga\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.ManageCourse.resources
+C:\Users\Udayanga\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.ManageMarks.resources
+C:\Users\Udayanga\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.ManageStudent.resources
+C:\Users\Udayanga\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.NewCourse.resources
+C:\Users\Udayanga\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.PrintCourse.resources
+C:\Users\Udayanga\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.PrintMarks.resources
+C:\Users\Udayanga\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.Properties.Resources.resources
+C:\Users\Udayanga\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.StudentPrint.resources
+C:\Users\Udayanga\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.StudentRegistation.resources
+C:\Users\Udayanga\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login And Registration System.csproj.GenerateResource.Cache
+G:\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\Login And Registration System.exe.config
+G:\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login And Registration System.exe
+G:\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login And Registration System.pdb
+G:\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\Login And Registration System.exe
+G:\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\Login And Registration System.pdb
+G:\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\CircularProgressBar.dll
+G:\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\CircularProgressBar.xml
+G:\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login And Registration System.csprojResolveAssemblyReference.cache
+G:\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.AddMarks.resources
+G:\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.AddNewStudent.resources
+G:\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.Dashboard.resources
+G:\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.Frm_Register.resources
+G:\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.FormLoggin.resources
+G:\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.loadingFrm.resources
+G:\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.MainDashboard.resources
+G:\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.ManageCourse.resources
+G:\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.ManageMarks.resources
+G:\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.ManageStudent.resources
+G:\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.NewCourse.resources
+G:\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.PrintCourse.resources
+G:\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.PrintMarks.resources
+G:\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.Properties.Resources.resources
+G:\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.StudentPrint.resources
+G:\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.StudentRegistation.resources
+G:\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login And Registration System.csproj.GenerateResource.Cache
+C:\Users\harsh\OneDrive\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\Login And Registration System.exe.config
+C:\Users\harsh\OneDrive\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\Login And Registration System.exe
+C:\Users\harsh\OneDrive\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\Login And Registration System.pdb
+C:\Users\harsh\OneDrive\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\CircularProgressBar.dll
+C:\Users\harsh\OneDrive\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\CircularProgressBar.xml
+C:\Users\harsh\OneDrive\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login And Registration System.csproj.AssemblyReference.cache
+C:\Users\harsh\OneDrive\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login And Registration System.csproj.SuggestedBindingRedirects.cache
+C:\Users\harsh\OneDrive\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.AddMarks.resources
+C:\Users\harsh\OneDrive\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.AddNewStudent.resources
+C:\Users\harsh\OneDrive\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.Dashboard.resources
+C:\Users\harsh\OneDrive\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.Frm_Register.resources
+C:\Users\harsh\OneDrive\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.FormLoggin.resources
+C:\Users\harsh\OneDrive\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.loadingFrm.resources
+C:\Users\harsh\OneDrive\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.MainDashboard.resources
+C:\Users\harsh\OneDrive\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.ManageCourse.resources
+C:\Users\harsh\OneDrive\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.ManageMarks.resources
+C:\Users\harsh\OneDrive\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.ManageStudent.resources
+C:\Users\harsh\OneDrive\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.NewCourse.resources
+C:\Users\harsh\OneDrive\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.PrintCourse.resources
+C:\Users\harsh\OneDrive\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.PrintMarks.resources
+C:\Users\harsh\OneDrive\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.Properties.Resources.resources
+C:\Users\harsh\OneDrive\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.StudentPrint.resources
+C:\Users\harsh\OneDrive\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.StudentRegistation.resources
+C:\Users\harsh\OneDrive\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login And Registration System.csproj.GenerateResource.cache
+C:\Users\harsh\OneDrive\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login And Registration System.csproj.CoreCompileInputs.cache
+C:\Users\harsh\OneDrive\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login And Registration System.csproj.CopyComplete
+C:\Users\harsh\OneDrive\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login And Registration System.exe
+C:\Users\harsh\OneDrive\Desktop\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login And Registration System.pdb
+C:\Users\Udayanga\Downloads\DEH_2022_IT_F_0052\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\Login And Registration System.exe.config
+C:\Users\Udayanga\Downloads\DEH_2022_IT_F_0052\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\Login And Registration System.exe
+C:\Users\Udayanga\Downloads\DEH_2022_IT_F_0052\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\Login And Registration System.pdb
+C:\Users\Udayanga\Downloads\DEH_2022_IT_F_0052\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\CircularProgressBar.dll
+C:\Users\Udayanga\Downloads\DEH_2022_IT_F_0052\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\bin\Debug\CircularProgressBar.xml
+C:\Users\Udayanga\Downloads\DEH_2022_IT_F_0052\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login And Registration System.csproj.AssemblyReference.cache
+C:\Users\Udayanga\Downloads\DEH_2022_IT_F_0052\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.AddMarks.resources
+C:\Users\Udayanga\Downloads\DEH_2022_IT_F_0052\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.AddNewStudent.resources
+C:\Users\Udayanga\Downloads\DEH_2022_IT_F_0052\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.Dashboard.resources
+C:\Users\Udayanga\Downloads\DEH_2022_IT_F_0052\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.Frm_Register.resources
+C:\Users\Udayanga\Downloads\DEH_2022_IT_F_0052\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.FormLoggin.resources
+C:\Users\Udayanga\Downloads\DEH_2022_IT_F_0052\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.loadingFrm.resources
+C:\Users\Udayanga\Downloads\DEH_2022_IT_F_0052\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.MainDashboard.resources
+C:\Users\Udayanga\Downloads\DEH_2022_IT_F_0052\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.ManageCourse.resources
+C:\Users\Udayanga\Downloads\DEH_2022_IT_F_0052\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.ManageMarks.resources
+C:\Users\Udayanga\Downloads\DEH_2022_IT_F_0052\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.ManageStudent.resources
+C:\Users\Udayanga\Downloads\DEH_2022_IT_F_0052\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.NewCourse.resources
+C:\Users\Udayanga\Downloads\DEH_2022_IT_F_0052\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.PrintCourse.resources
+C:\Users\Udayanga\Downloads\DEH_2022_IT_F_0052\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.PrintMarks.resources
+C:\Users\Udayanga\Downloads\DEH_2022_IT_F_0052\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.Properties.Resources.resources
+C:\Users\Udayanga\Downloads\DEH_2022_IT_F_0052\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.StudentPrint.resources
+C:\Users\Udayanga\Downloads\DEH_2022_IT_F_0052\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login_And_Registration_System.StudentRegistation.resources
+C:\Users\Udayanga\Downloads\DEH_2022_IT_F_0052\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login And Registration System.csproj.GenerateResource.cache
+C:\Users\Udayanga\Downloads\DEH_2022_IT_F_0052\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login And Registration System.csproj.CoreCompileInputs.cache
+C:\Users\Udayanga\Downloads\DEH_2022_IT_F_0052\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login An.F57CF5C5.Up2Date
+C:\Users\Udayanga\Downloads\DEH_2022_IT_F_0052\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login And Registration System.exe
+C:\Users\Udayanga\Downloads\DEH_2022_IT_F_0052\DEH_2022_IT_F_0052\SLIATE\Login And Registration System\Login And Registration System\obj\Debug\Login And Registration System.pdb
